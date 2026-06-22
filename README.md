@@ -35,7 +35,7 @@ Sadece çalışan değil, **ölçeklenebilir, sürdürülebilir ve temiz sisteml
 ## 🔗 Bağlantılar
 
 <p align="center">
-<a href="[[https://open.spotify.com/user/senin_spotify_linkin](https://open.spotify.com/user/gkdcnuaxxhrmkokykmueqrmmw?si=2c0b1132f5254a8f)](https://open.spotify.com/user/gkdcnuaxxhrmkokykmueqrmmw?si=dabfa978665f4ed5&nd=1&dlsi=b48d26cfeaf44567)">
+<a href="https://open.spotify.com/user/gkdcnuaxxhrmkokykmueqrmmw?si=dabfa978665f4ed5&nd=1&dlsi=b48d26cfeaf44567">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ichbinerayy_/">
