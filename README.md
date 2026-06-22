@@ -36,7 +36,7 @@ Sadece çalışan değil, **ölçeklenebilir, sürdürülebilir ve temiz sisteml
 
 <p align="center">
   <a href="https://www.instagram.com/ichbinerayy_/">
-  <img src="<i class="fi fi-brands-spotify"></i>" />
+  <img src="fi fi-brands-spotify"></i>" />
 </a>
 <a href="https://www.instagram.com/ichbinerayy_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
