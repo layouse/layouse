@@ -1,53 +1,83 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E2125&center=true&vCenter=true&lines=LAYOUSE;System+Architectural+Depth+%26+High+Performance;Excellence+in+Code+and+Design;T%C3%9CRK%C4%B0YE+CUMHUR%C4%B0YET%C4%B0;MUSTAFA+KEMAL+ATAT%C3%9CRK" alt="Layouse" />
+
+# 👋 Selam, ben Layouse
+
+**Frontend Developer • System Thinker • Performance Nerd**
+
+> “Gereksiz karmaşıklık, kötü tasarımın en net çıktısıdır.”
+
 </div>
 
 ---
 
-## 👨‍💻 BEN KİMİM?
+## 🚀 Hakkımda
 
-Ben **Layouse**. Teknolojinin mimarî derinliğinde estetik ve performansı birleştiren bir geliştiriciyim.  
-Sadece çalışan değil, **ölçeklenebilir, sürdürülebilir ve temiz sistemler** inşa ederim.
+Ben Layouse. Kimya teknolojisinden yazılıma kaymış, olaylara sadece “kod yazmak” olarak değil **sistem kurmak** olarak bakan bir geliştiriciyim.
 
-> “Teknolojinin gücü, karmaşıklığı basitlikle çözmektir.”
+* UI yaparım ama sadece güzel olsun diye değil  **kullanılır olsun diye yaparım**
+* Backend yazarım ama sadece çalışsın diye değil **ölçeklensin ve sürdürülebilir olsun diye yazarım**
+* Kod yazarım ama sadece bitsin diye değil **temiz kalsın diye**
 
----
+Kısacası:
 
-## 🧠 Odak Alanlarım
-
-| Alan | Yaklaşım |
-|------|----------|
-| Full-Stack | Sistem bütünlüğü ve mimari tasarım |
-| Low-Level | C / C++ performans ve kaynak yönetimi |
-| UI/UX | Minimalist ve premium deneyim |
-| DevOps | Ölçeklenebilir altyapılar |
+> Çalışan şeyler yapmam, **doğru çalışan** şeyler yapmaya daha fazla *özen gösteririm*
 
 ---
 
-## ⚙️ Teknolojiler
+## 🧠 Nasıl Düşünüyorum?
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,c,cpp,linux,git,aws,gcp" />
-</p>
+* 🧩 Büyük resmi görmeden satır yazmam
+* ⚙️ Performans varsa ben varım
+* 🧼 Clean code = saygı göstergesi
+* 📦 Sistem tasarımı > framework tartışması
 
 ---
 
-## 🔗 Bağlantılar
+## 💻 Tech Stack
 
-<p align="center">
-<a href="https://open.spotify.com/user/gkdcnuaxxhrmkokykmueqrmmw?si=dabfa978665f4ed5&nd=1&dlsi=b48d26cfeaf44567">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ichbinerayy_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-  <a href="https://github.com/layouse">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://eac365.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge" />
-  </a>
-  <a href="mailto:eryakif@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+```txt
+Frontend   → React, Next.js, JavaScript, HTML, CSS
+Backend    → Node.js
+Low-Level  → C, C++, python
+DevOps     → Linux, AWS, GCP
+Tools      → Git, CLI, VSCode
+```
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=layouse&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=layouse&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layouse&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🧩 Şu An Ne Yapıyorum?
+
+* Kendi projelerimde sistem mimarisi deniyorum
+* Performans optimizasyonu üzerine kafa yoruyorum
+* Low-level + high-level dengeyi çözmeye çalışıyorum
+* Senior gibi düşünen junior olmaya oynuyorum
+
+---
+
+## 🔗 Bana Ulaş
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/gkdcnuaxxhrmkokykmueqrmmw?si=dabfa978665f4ed5&nd=1&dlsi=b48d26cfeaf44567)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ichbinerayy_/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/layouse)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://eac365.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:eryakif@gmail.com)
+
+</div>
+
+---
