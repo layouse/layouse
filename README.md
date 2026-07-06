@@ -43,7 +43,7 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Junior olup senior gibi düşünmeye çalışmak  
 
 ---
-
+![Spotify Status](https://pink-carrots-sniff.loca.lt/status.svg)
 ## 🔗 Bana Ulaş
 
 <div align="center">
