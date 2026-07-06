@@ -36,14 +36,7 @@ Tools → Git, CLI, VSCode
 
 ---
 
-## 🌆 Şu An Üzerinde Çalıştığım Vizyon: **Commit City**
 
-GitHub katkılarımı bir şehir silüeti gibi tasarlıyorum.  
-Bu şehir **İstanbul** ve **Kocaeli**’nin dokusunu taşıyor; arka planda ise **42 Ecole**’un mimari anlayışından ilham alan bir bina yükseliyor.
-
-Amacım, her commit’i bir tuğla, her repo’yu bir cadde olarak görmek. Kod yazmak, aslında bir şehir inşa etmek gibi: planlı, sağlam ve yaşanabilir.
-
----
 
 ## 🚀 Şu Anda Ne Yapıyorum?
 
