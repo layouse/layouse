@@ -1,14 +1,9 @@
 <div align="center">
 
 # 👋 Selam, ben Layouse
+<img src="https://readme-typing-svg.herokuapp.com?color=1E2125&center=true&vCenter=true&lines=LAYOUSE;System+Architectural+Depth+%26+High+Performance;Excellence+in+Code+and+Design;T%C3%9CRK%C4%B0YE+CUMHUR%C4%B0YET%C4%B0;MUSTAFA+KEMAL+ATAT%C3%9CRK" alt="Layouse" /> </div>
 
 **Frontend Developer • System Thinker • Performance Nerd**
-
-> “Gereksiz karmaşıklık, kötü tasarımın en net çıktısıdır.”
-
-</div>
-
----
 
 ## 🚀 Hakkımda
 
@@ -26,14 +21,14 @@ Kısacası:
 
 ## 🧠 Nasıl Düşünüyorum?
 
-* 🧩 Büyük resmi görmeden satır yazmam
-* ⚙️ Performans varsa ben varım
-* 🧼 Clean code = saygı göstergesi
-* 📦 Sistem tasarımı > framework tartışması
+*  Büyük resmi görmeden satır yazmam
+*  Performans varsa ben varım bro
+*  Clean code = saygı göstergesi
+*  Sistem tasarımı > framework tartışması
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ```txt
 Frontend   → React, Next.js, JavaScript, HTML, CSS
@@ -45,7 +40,7 @@ Tools      → Git, CLI, VSCode
 
 ---
 
-## 📊 GitHub İstatistiklerim
+##  GitHub İstatistiklerim
 
 <div align="center">
 
@@ -59,7 +54,7 @@ Tools      → Git, CLI, VSCode
 
 ---
 
-## 🧩 Şu An Ne Yapıyorum?
+##  Şu An Ne Yapıyorum?
 
 * Kendi projelerimde sistem mimarisi deniyorum
 * Performans optimizasyonu üzerine kafa yoruyorum
