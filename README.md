@@ -37,7 +37,7 @@ DevOps     → Linux, AWS, GCP
 Tools      → Git, CLI, VSCode
 
 ```
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,c,cpp,linux,git,aws,gcp" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,c,cpp,linux,git,aws,gcp,python" /> </p>
 
 ##  Şu An Ne Yapıyorum?
 
