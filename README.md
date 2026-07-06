@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="commit-city-banner.svg" width="100%" />
+<img src="layouse.svg" width="100%" />
 
 # 👋 Selam, ben Layouse
 
