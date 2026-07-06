@@ -19,11 +19,10 @@ Kısacası:
 
 ---
 
-## 🧠 Nasıl Düşünüyorum?
+##  Nasıl Düşünüyorum?
 
-*  Büyük resmi görmeden satır yazmam
 *  Performans varsa ben varım bro
-*  Clean code = saygı göstergesi
+*  Clean code benim için saygı hakeder
 *  Sistem tasarımı > framework tartışması
 
 ---
@@ -36,23 +35,8 @@ Backend    → Node.js
 Low-Level  → C, C++, python
 DevOps     → Linux, AWS, GCP
 Tools      → Git, CLI, VSCode
+
 ```
-
----
-
-##  GitHub İstatistiklerim
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=layouse&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=layouse&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layouse&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 ##  Şu An Ne Yapıyorum?
 
