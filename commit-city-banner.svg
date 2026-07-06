@@ -281,13 +281,12 @@
 
   <!-- Başlık ve etiketler -->
   <text x="500" y="50" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#f9a8d4" filter="url(#glowFilter)">
-    🌆 Commit City
+    LAYOUSE City
   </text>
   <text x="500" y="80" text-anchor="middle" font-family="monospace" font-size="14" fill="#c084fc" filter="url(#softGlow)">
-    İstanbul · Kocaeli · 42 Ecole
   </text>
   <text x="500" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#a5b4fc" opacity="0.8">
-    Her commit bir tuğla, her repo bir cadde
+   sadece izle...
   </text>
 
   <!-- Uçan kuş / ışık efektleri -->
