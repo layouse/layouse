@@ -34,9 +34,6 @@ Tools → Git, CLI, VSCode
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,c,cpp,linux,git,aws,gcp,python" />
 </p>
 <img src="commit-city-banner.svg" alt="Commit City Banner" width="100%"/>
----
-
-
 
 ## 🚀 Şu Anda Ne Yapıyorum?
 
