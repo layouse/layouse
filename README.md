@@ -43,9 +43,8 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Junior olup senior gibi düşünmeye çalışmak  
 
 ---
-![Spotify Status](http://bore.pub:50777/status.svg)
+![Spotify Status](https://twelve-badgers-take.loca.lt/status.svg)
 
-[![LAYOUSE ARCADE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3Znd2RtY214NXN6Znd4cmMxOHdwbndpOHd0YTFwNWhvN3ptcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MeGcfbdTucSxgK97C9/giphy.gif)](http://bore.pub:50777)
 ## 🔗 Bana Ulaş
 
 <div align="center">
