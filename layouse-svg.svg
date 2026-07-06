@@ -1,0 +1,177 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+    </linearGradient>
+
+    <linearGradient id="fadeLeft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.85"/>
+      <stop offset="60%" stop-color="#0D1117" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- BACKGROUND IMAGE (BASE64 PLACEHOLDER – DO NOT TOUCH) -->
+<image 
+  href="https://raw.githubusercontent.com/layouse/layouse/main/banner.png"
+  x="0" y="0"
+  width="1200"
+  height="320"
+/>
+
+  <!-- LEFT FADE OVERLAY -->
+  <rect width="800" height="320" fill="url(#fadeLeft)" />
+
+  <!-- GLASS PANEL (MAIN) -->
+  <rect x="60" y="40" width="560" height="240" rx="24"
+        fill="#0D1117" opacity="0.55" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- DECORATIVE CORNER -->
+  <path d="M60 64 L60 40 L84 40" fill="none" stroke="#58A6FF" stroke-width="2" opacity="0.6"/>
+  <path d="M596 64 L620 40 L620 40" fill="none" stroke="#8B5CF6" stroke-width="2" opacity="0.6"/>
+
+  <!-- TITLE -->
+  <text x="90" y="105"
+        font-size="56"
+        font-weight="bold"
+        font-family="monospace"
+        fill="url(#neon)"
+        filter="url(#glow)">
+    LAYOUSE
+  </text>
+
+  <!-- ROLE BADGE -->
+  <rect x="90" y="120" width="210" height="22" rx="6" fill="#8B5CF6" opacity="0.2" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="100" y="135"
+        font-size="11"
+        font-family="monospace"
+        fill="#C9D1D9"
+        letter-spacing="1">
+    FRONTEND DEVELOPER
+  </text>
+
+  <!-- SUBTITLE -->
+  <text x="90" y="170"
+        font-size="15"
+        fill="#8B949E"
+        font-family="monospace">
+    UI Engineer • Building fast, accessible & clean interfaces
+  </text>
+
+  <!-- TERMINAL WINDOW -->
+  <rect x="90" y="195" width="510" height="68" rx="8"
+        fill="#161B22" opacity="0.9" stroke="#30363D" stroke-width="1"/>
+
+  <!-- TERMINAL DOTS -->
+  <circle cx="105" cy="208" r="4" fill="#FF5F56"/>
+  <circle cx="118" cy="208" r="4" fill="#FFBD2E"/>
+  <circle cx="131" cy="208" r="4" fill="#27C93F"/>
+
+  <!-- TERMINAL LINE 1 -->
+  <text x="140" y="212"
+        fill="#58A6FF"
+        font-size="12"
+        font-family="monospace">
+    layouse@eac365:~$
+  </text>
+  <text x="275" y="212"
+        fill="#C9D1D9"
+        font-size="12"
+        font-family="monospace">
+    whoami
+  </text>
+
+  <!-- TERMINAL LINE 2 -->
+  <text x="140" y="228"
+        fill="#8B949E"
+        font-size="12"
+        font-family="monospace">
+    &gt; frontend dev | ui engineer | open‑source enthusiast
+  </text>
+
+  <!-- TERMINAL LINE 3 -->
+  <text x="140" y="244"
+        fill="#58A6FF"
+        font-size="12"
+        font-family="monospace">
+    layouse@eac365:~$
+  </text>
+  <text x="275" y="244"
+        fill="#22C55E"
+        font-size="12"
+        font-family="monospace">
+    crafting smooth UIs && killing slow apps...
+  </text>
+
+  <!-- BLINKING CURSOR -->
+  <rect x="275" y="233" width="9" height="12" fill="#22C55E">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- RIGHT PANEL: LIVE METRICS -->
+  <rect x="770" y="70" width="350" height="190" rx="16"
+        fill="#0D1117" opacity="0.4" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- PANEL HEADER -->
+  <rect x="770" y="70" width="350" height="36" rx="16"
+        fill="#161B22" opacity="0.8"/>
+  <rect x="770" y="90" width="350" height="16" fill="#161B22" opacity="0.8"/>
+
+  <text x="790" y="93"
+        fill="#58A6FF"
+        font-weight="bold"
+        font-size="13"
+        font-family="monospace">
+    LIVE METRICS
+  </text>
+
+  <!-- METRIC 1: FPS -->
+  <text x="790" y="130" font-size="11" fill="#C9D1D9" font-family="monospace">PERFORMANCE</text>
+  <rect x="790" y="138" width="240" height="6" rx="3" fill="#30363D"/>
+  <rect x="790" y="138" width="215" height="6" rx="3" fill="#22C55E"/>
+  <text x="1035" y="143" font-size="10" fill="#22C55E" font-family="monospace">90%</text>
+
+  <!-- METRIC 2: UX -->
+  <text x="790" y="165" font-size="11" fill="#C9D1D9" font-family="monospace">UX SCORE</text>
+  <rect x="790" y="173" width="240" height="6" rx="3" fill="#30363D"/>
+  <rect x="790" y="173" width="205" height="6" rx="3" fill="#58A6FF"/>
+  <text x="1035" y="178" font-size="10" fill="#58A6FF" font-family="monospace">85%</text>
+
+  <!-- METRIC 3: DX -->
+  <text x="790" y="200" font-size="11" fill="#C9D1D9" font-family="monospace">DEVELOPER EXPERIENCE</text>
+  <rect x="790" y="208" width="240" height="6" rx="3" fill="#30363D"/>
+  <rect x="790" y="208" width="195" height="6" rx="3" fill="#8B5CF6"/>
+  <text x="1035" y="213" font-size="10" fill="#8B5CF6" font-family="monospace">82%</text>
+
+  <!-- GITHUB LINK (BOTTOM RIGHT) -->
+  <text x="1050" y="295"
+        font-size="11"
+        fill="#8B949E"
+        font-family="monospace"
+        text-anchor="end">
+    github.com/layouse
+  </text>
+
+</svg>
