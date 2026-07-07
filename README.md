@@ -45,7 +45,7 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 ---
 ![Status](https://freebase-deviancy-critter.ngrok-free.dev/status.svg)
 
-[ANLIK VERİ GÜNCELLENMEMİŞ İSE](https://freebase-deviancy-critter.ngrok-free.dev/status.svg)
+[ ANLIK VERİ ](https://freebase-deviancy-critter.ngrok-free.dev/status.svg)
 
 ## 🔗 Bana Ulaş
 
