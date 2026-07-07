@@ -4,7 +4,7 @@
 
 # 👋 Selam, ben Layouse
 
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=LAYOUSE;Frontend+Developer;System+Thinker;Performance+Focused" />
+<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=LAYOUSE;Frontend+Developer;Backend+Curious;M.KEMAL+ATATÜRK;TÜRKİYE+CUMHURİYETİ;Performance+Focused" />
 
 </div>
 
