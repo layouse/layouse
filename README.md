@@ -29,11 +29,7 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 </p>
 
 ---
-<p align="center">
-  <img src="./layouse-repo.gif" width="900" height="400" style="object-fit: cover; border-radius: 10px;" />
-</p>
-
----
+[ MY-BİO ](https://link.eac365.com/my-bio/)
 
 ## 🚀 Şu Anda Ne Yapıyorum?
 
