@@ -43,8 +43,7 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Junior olup senior gibi düşünmeye çalışmak  
 
 ---
-![Spotify Status](https://ordering-return-peer-networking.trycloudflare.com/status.svg)
-
+![Status](https://placeholder.trycloudflare.com/status.svg)
 ## 🔗 Bana Ulaş
 
 <div align="center">
