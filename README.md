@@ -18,8 +18,6 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Backend’i sadece çalışsın diye değil, **ölçeklensin ve sürdürülebilir** olsun diye yazarım  
 - Kodumu sadece bitsin diye değil, **temiz kalsın** diye düzenlerim  
 
-> Çalışan şeyler yapmam, **doğru çalışan** şeyler yapmaya özen gösteririm.
-
 ---
 
 ## ⚙️ Tech Stack
