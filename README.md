@@ -43,7 +43,7 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Junior olup senior gibi düşünmeye çalışmak  
 
 ---
-![Spotify Status](https://twelve-badgers-take.loca.lt/status.svg)
+![Spotify Status](https://friendly-husky-14.loca.lt/status.svg)
 
 ## 🔗 Bana Ulaş
 
