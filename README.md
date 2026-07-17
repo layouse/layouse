@@ -37,7 +37,7 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Junior olup senior gibi düşünmeye çalışmak  
 
 ---
-[![Status](https://status.eac365.com/status.svg)](https://status.eac365.com)
+[![Status](https://status.eac365.com/status.svg)](https://status.eac365.com/status.svg)
 
 [ ANLIK VERİ ](https://status.eac365.com/status.svg)
 
