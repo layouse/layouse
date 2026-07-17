@@ -37,9 +37,9 @@ Kimya teknolojisinden yazılıma geçtim. Olaylara sadece “kod yazmak” olara
 - Junior olup senior gibi düşünmeye çalışmak  
 
 ---
-![Status](https://freebase-deviancy-critter.ngrok-free.dev/status.svg)
+![Status][(https://status.eac365.com/status.svg)
 
-[ ANLIK VERİ ](https://freebase-deviancy-critter.ngrok-free.dev/status.svg)
+[ ANLIK VERİ ](https://status.eac365.com/status.svg)
 
 ## 🔗 Bana Ulaş
 
